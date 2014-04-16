@@ -236,44 +236,12 @@
             <category>140</category>
         </codelist-item>
         <codelist-item>
-            <code>14021</code>
-            <name>Water supply - large systems </name>
-            <description>Potable water treatment plants; intake works; storage; water supply pumping
-                stations; large scale transmission / conveyance and distribution systems.</description>
-            <category>140</category>
-        </codelist-item>
-        <codelist-item>
-            <code>14022</code>
-            <name>Sanitation - large systems</name>
-            <description>Large scale sewerage including trunk sewers and sewage pumping stations;
-                domestic and industrial waste water treatment plants.</description>
-            <category>140</category>
-        </codelist-item>
-        <codelist-item>
             <code>14030</code>
             <name>Basic drinking water supply and basic sanitation</name>
             <description>Water supply and sanitation through low-cost technologies such as handpumps,
                 spring catchment, gravity-fed systems, rain water collection, storage tanks, small
                 distribution systems; latrines, small-bore sewers, on-site disposal (septic
                 tanks).</description>
-            <category>140</category>
-        </codelist-item>
-        <codelist-item>
-            <code>14031</code>
-            <name>Basic drinking water supply</name>
-            <description>Rural water supply schemes using handpumps, spring catchments, gravity-fed
-                systems, rainwater collection and fog harvesting, storage tanks, small distribution
-                systems typically with shared connections/points of use. Urban schemes using handpumps
-                and local neighbourhood networks including those with shared connections.</description>
-            <category>140</category>
-        </codelist-item>
-        <codelist-item>
-            <code>14032</code>
-            <name>Basic sanitation</name>
-            <description>Latrines, on-site disposal and alternative sanitation systems, including the
-                promotion of household and community investments in the construction of these
-                facilities. (Use code 12261 for activities promoting improved personal hygiene
-                practices.)</description>
             <category>140</category>
         </codelist-item>
         <codelist-item>
@@ -308,37 +276,6 @@
                 evaluation; support to ministries involved in aid co-ordination; other ministries and
                 government departments when sector cannot be specified. (Use specific sector codes for
                 development of systems and capacities in sector ministries.) </description>
-            <category>151</category>
-        </codelist-item>
-        <codelist-item>
-            <code>15111</code>
-            <name>Public finance management</name>
-            <description>Fiscal policy and planning; support to ministries of finance; strengthening
-                financial and managerial accountability; public expenditure management; improving
-                financial management systems; tax policy and administration; budget drafting;
-                inter-governmental fiscal relations, public audit, public debt. (Use code 33120 for
-                customs.) </description>
-            <category>151</category>
-        </codelist-item>
-        <codelist-item>
-            <code>15112</code>
-            <name>Decentralisation and support to subnational government</name>
-            <description>Decentralisation processes (including political, administrative and fiscal
-                dimensions); intergovernmental relations and federalism; strengthening departments of
-                regional and local government, regional and local authorities and their national
-                associations. (Use specific sector codes for decentralisation of sector management and
-                services.) </description>
-            <category>151</category>
-        </codelist-item>
-        <codelist-item>
-            <code>15113</code>
-            <name>Anti-corruption organisations and institutions</name>
-            <description>Specialised organisations, institutions and frameworks for the prevention of
-                and combat against corruption, bribery, money-laundering and other aspects of organised
-                crime, with or without law enforcement powers, e.g. anti-corruption commissions and
-                monitoring bodies, special investigation services, institutions and initiatives of
-                integrity and ethics oversight, specialised NGOs, other civil society and citizens’
-                organisations directly concerned with corruption. </description>
             <category>151</category>
         </codelist-item>
         <codelist-item>
@@ -381,56 +318,34 @@
             <category>151</category>
         </codelist-item>
         <codelist-item>
-            <code>15151</code>
+            <code>15161</code>
             <name>Elections</name>
-            <description>Electoral management bodies and processes, election observation, voters'
-                education. (Use code 15230 when in the context of an international peacekeeping
-                operation.)</description>
-            <category>151</category>
+            <description>Electoral assistance and monitoring, voters' education
+            [other than in connection with UN peace building
+            (15230)].</description> <category>151</category>
         </codelist-item>
         <codelist-item>
-            <code>15152</code>
-            <name>Legislatures and political parties</name>
-            <description>Assistance to strengthen key functions of legislatures/ parliaments including
-                subnational assemblies and councils (representation; oversight; legislation), such as
-                improving the capacity of legislative bodies, improving legislatures’ committees and
-                administrative procedures,; research and information management systems; providing
-                training programmes for legislators and support personnel. Assistance to political
-                parties and strengthening of party systems.</description>
-            <category>151</category>
-        </codelist-item>
-        <codelist-item>
-            <code>15153</code>
-            <name>Media and free flow of information</name>
-            <description>Activities that support free and uncensored flow of information on public
-                issues; activities that increase the editorial and technical skills and the integrity of
-                the print and broadcast media, e.g. training of journalists. (Use codes 22010-22040 for
-                provision of equipment and capital assistance to media.)</description>
-            <category>151</category>
-        </codelist-item>
-        <codelist-item>
-            <code>15160</code>
+            <code>15162</code>
             <name>Human rights</name>
-            <description>Measures to support specialised official human rights institutions and
-                mechanisms at universal, regional, national and local levels in their statutory roles to
-                promote and protect civil and political, economic, social and cultural rights as defined
-                in international conventions and covenants; translation of international human rights
-                commitments into national legislation; reporting and follow-up; human rights dialogue.
-                Human rights defenders and human rights NGOs; human rights advocacy, activism,
-                mobilisation; awareness raising and public human rights education. Human rights
-                programming targeting specific groups, e.g. children, persons with disabilities,
-                migrants, ethnic, religious, linguistic and sexual minorities, indigenous people and
-                those suffering from caste discrimination, victims of trafficking, victims of torture.
-                (Use code 15230 when in the context of an international peacekeeping operation) </description>
-            <category>151</category>
+            <description>Monitoring of human rights performance; support for
+            national and regional human rights bodies; protection of ethnic,
+            religious and cultural minorities [other than in connection with un
+            peace building (15230)].</description> <category>151</category>
         </codelist-item>
         <codelist-item>
-            <code>15170</code>
-            <name>Women's equality organisations and institutions *</name>
-            <description>
-                Support for institutions and organisations (governmental and non-governmental)
-                working for gender equality and women's empowerment.</description>
-            <category>151</category>
+            <code>15163</code>
+            <name>Free flow of information</name>
+            <description>Uncensored flow of information on public issues,
+            including activities that increase the professionalism, skills and
+            integrity of the print and broadcast media (e.g. training of
+            journalists).</description> <category>151</category>
+        </codelist-item>
+        <codelist-item>
+            <code>15164</code>
+            <name>Women's equality organisations and institutions</name>
+            <description>Support for institutions and organisations
+            (governmental and non-governmental) working for gender equality and
+            women's empowerment.</description> <category>151</category>
         </codelist-item>
         <codelist-item>
             <code>15210</code>
