@@ -10,6 +10,10 @@
       <category>application</category>
     </codelist-item>
     <codelist-item>
+      <code>application/3gpdash-qoe-report+xml</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
       <code>application/3gpp-ims+xml</code>
       <category>application</category>
     </codelist-item>
@@ -1466,6 +1470,10 @@
       <category>application</category>
     </codelist-item>
     <codelist-item>
+      <code>application/vnd.debian.binary-package</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
       <code>application/vnd.dece.data</code>
       <category>application</category>
     </codelist-item>
@@ -1615,6 +1623,10 @@
     </codelist-item>
     <codelist-item>
       <code>application/vnd.dynageo</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
+      <code>application/vnd.dzr</code>
       <category>application</category>
     </codelist-item>
     <codelist-item>
@@ -1902,6 +1914,10 @@
       <category>application</category>
     </codelist-item>
     <codelist-item>
+      <code>application/vnd.geo+json</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
       <code>application/vnd.geocube+xml</code>
       <category>application</category>
     </codelist-item>
@@ -2091,6 +2107,30 @@
     </codelist-item>
     <codelist-item>
       <code>application/vnd.immervision-ivu</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
+      <code>application/vnd.ims.lis.v2.result+json</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
+      <code>application/vnd.ims.lti.v2.toolconsumerprofile+json</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
+      <code>application/vnd.ims.lti.v2.toolproxy.id+json</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
+      <code>application/vnd.ims.lti.v2.toolproxy+json</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
+      <code>application/vnd.ims.lti.v2.toolsettings+json</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
+      <code>application/vnd.ims.lti.v2.toolsettings.simple+json</code>
       <category>application</category>
     </codelist-item>
     <codelist-item>
@@ -2394,6 +2434,10 @@
       <category>application</category>
     </codelist-item>
     <codelist-item>
+      <code>application/vnd.miele+json</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
       <code>application/vnd.mif</code>
       <category>application</category>
     </codelist-item>
@@ -2491,6 +2535,10 @@
     </codelist-item>
     <codelist-item>
       <code>application/vnd.mseq</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
+      <code>application/vnd.ms-3mfdocument</code>
       <category>application</category>
     </codelist-item>
     <codelist-item>
@@ -3390,6 +3438,10 @@
       <category>application</category>
     </codelist-item>
     <codelist-item>
+      <code>application/vnd.panoply</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
       <code>application/vnd.paos.xml</code>
       <category>application</category>
     </codelist-item>
@@ -3910,6 +3962,10 @@
       <category>application</category>
     </codelist-item>
     <codelist-item>
+      <code>application/vnd.valve.source.material</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
       <code>application/vnd.vcx</code>
       <category>application</category>
     </codelist-item>
@@ -4110,6 +4166,10 @@
       <category>application</category>
     </codelist-item>
     <codelist-item>
+      <code>application/vnd.yaoweme</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
       <code>application/vnd.yellowriver-custom-menu</code>
       <category>application</category>
     </codelist-item>
@@ -4159,6 +4219,10 @@
     </codelist-item>
     <codelist-item>
       <code>application/wspolicy+xml</code>
+      <category>application</category>
+    </codelist-item>
+    <codelist-item>
+      <code>application/x-www-form-urlencoded</code>
       <category>application</category>
     </codelist-item>
     <codelist-item>
@@ -4286,7 +4350,11 @@
       <category>audio</category>
     </codelist-item>
     <codelist-item>
-      <code>audio/amr-wb</code>
+      <code>audio/amr-wb+</code>
+      <category>audio</category>
+    </codelist-item>
+    <codelist-item>
+      <code>audio/aptx</code>
       <category>audio</category>
     </codelist-item>
     <codelist-item>
@@ -4430,11 +4498,11 @@
       <category>audio</category>
     </codelist-item>
     <codelist-item>
-      <code>audio/G722</code>
+      <code>audio/G7221</code>
       <category>audio</category>
     </codelist-item>
     <codelist-item>
-      <code>audio/G7221</code>
+      <code>audio/G722</code>
       <category>audio</category>
     </codelist-item>
     <codelist-item>
@@ -5126,11 +5194,19 @@
       <category>model</category>
     </codelist-item>
     <codelist-item>
+      <code>model/vnd.opengex</code>
+      <category>model</category>
+    </codelist-item>
+    <codelist-item>
       <code>model/vnd.parasolid.transmit.binary</code>
       <category>model</category>
     </codelist-item>
     <codelist-item>
       <code>model/vnd.parasolid.transmit.text</code>
+      <category>model</category>
+    </codelist-item>
+    <codelist-item>
+      <code>model/vnd.valve.source.compiled-map</code>
       <category>model</category>
     </codelist-item>
     <codelist-item>
@@ -5211,6 +5287,10 @@
     </codelist-item>
     <codelist-item>
       <code>text/1d-interleaved-parityfec</code>
+      <category>text</category>
+    </codelist-item>
+    <codelist-item>
+      <code>text/cache-manifest</code>
       <category>text</category>
     </codelist-item>
     <codelist-item>
